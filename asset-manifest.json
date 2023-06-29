@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.ae854551.css",
-    "main.js": "/static/js/main.9c7a4834.js",
+    "main.js": "/static/js/main.6ae2f183.js",
     "static/media/alkajar.png": "/static/media/alkajar.49e503bb70c2973f585c.png",
     "static/media/netmeds3.png": "/static/media/netmeds3.32e2013a80b324a2e939.png",
     "static/media/personal.png": "/static/media/personal.abde16c747f8a00a59e8.png",
     "static/media/Bharat_Resume.pdf": "/static/media/Bharat_Resume.bfcaca1f4cbc08cb9596.pdf",
     "index.html": "/index.html",
     "main.ae854551.css.map": "/static/css/main.ae854551.css.map",
-    "main.9c7a4834.js.map": "/static/js/main.9c7a4834.js.map"
+    "main.6ae2f183.js.map": "/static/js/main.6ae2f183.js.map"
   },
   "entrypoints": [
     "static/css/main.ae854551.css",
-    "static/js/main.9c7a4834.js"
+    "static/js/main.6ae2f183.js"
   ]
 }
