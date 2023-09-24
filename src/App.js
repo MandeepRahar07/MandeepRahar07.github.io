@@ -1,23 +1,42 @@
-import logo from './logo.svg';
-import './App.css';
+import { useEffect, useState } from "react";
+import "./App.css";
+import Intro from "./components/Intro";
+import About from "./components/about";
+import Aos from "aos";
+import "aos/dist/aos.css";
+import Navbar from "./components/Navbar";
+import Projects from "./components/Project";
+import Contact from "./components/Contact";
+import Footer from "./components/Footer";
+import { Skills } from "./components/Skills";
+import { Github } from "./components/Github";
 
 function App() {
+  let [boolean, setBoolean] = useState(true);
+  function handleClick() {
+    setBoolean(!boolean);
+  }
+  
+  useEffect(() => {
+    Aos.init();
+    Aos.refresh();
+  }, []);
+
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+      <Navbar handleClick={handleClick} boolean={boolean} />
+      <Intro handleClick={handleClick} boolean={boolean} />
+      <div className="contain give-padding" onClick={() => {
+        if (boolean === false) handleClick();
+      }}>
+        <About />
+        <Skills></Skills>
+        {/* <Work /> */}
+        <Projects />
+        <Github />
+        <Contact />
+      </div>
+      <Footer />
     </div>
   );
 }
