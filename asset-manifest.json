@@ -1,17 +1,19 @@
 {
   "files": {
-    "main.css": "/static/css/main.5991633c.css",
-    "main.js": "/static/js/main.91a86d65.js",
+    "main.css": "/static/css/main.3bd5ac08.css",
+    "main.js": "/static/js/main.59d3e57b.js",
+    "static/media/furniture.png": "/static/media/furniture.1b6bfd4172e80578416f.png",
     "static/media/alkajar.png": "/static/media/alkajar.49e503bb70c2973f585c.png",
+    "static/media/travelious.png": "/static/media/travelious.db840f8dcf10d656c060.png",
     "static/media/netmeds3.png": "/static/media/netmeds3.32e2013a80b324a2e939.png",
-    "static/media/personal.png": "/static/media/personal.abde16c747f8a00a59e8.png",
-    "static/media/Mandeep_resume.pdf": "/static/media/Mandeep_resume.3779ed9a247cd0bbb5c9.pdf",
+    "static/media/Mandeep_rahar_resume.pdf": "/static/media/Mandeep_rahar_resume.534705e6c456a7172c77.pdf",
+    "static/media/personal.png": "/static/media/personal.2eaccd89b422a93fd273.png",
     "index.html": "/index.html",
-    "main.5991633c.css.map": "/static/css/main.5991633c.css.map",
-    "main.91a86d65.js.map": "/static/js/main.91a86d65.js.map"
+    "main.3bd5ac08.css.map": "/static/css/main.3bd5ac08.css.map",
+    "main.59d3e57b.js.map": "/static/js/main.59d3e57b.js.map"
   },
   "entrypoints": [
-    "static/css/main.5991633c.css",
-    "static/js/main.91a86d65.js"
+    "static/css/main.3bd5ac08.css",
+    "static/js/main.59d3e57b.js"
   ]
 }
