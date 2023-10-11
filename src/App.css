@@ -34,9 +34,10 @@
     /* background: #232322; */
     background-size:cover;
     font-size: 23px;
-    color: rgb(57,77,159);
+    color: rgb(23, 23, 24);
     overflow-x: hidden;
     font-weight: 600;
+    background-color: rgb(234, 231, 230);
   }
   .cursor{
     display: none;
@@ -117,7 +118,7 @@
   
   /* Navbar */
   #nav-menu{
-    background: var(--brown-red);
+    background: white;
     position: sticky;
     top: 0;
     z-index: 10;

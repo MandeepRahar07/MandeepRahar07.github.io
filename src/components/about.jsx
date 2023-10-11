@@ -17,7 +17,7 @@ export default function About() {
       data-aos="fade-up"
       className="about section sections"
       id="about"
-      style={{ marginTop: "50px" }} // Add inline CSS to control margin
+      style={{ marginTop: "130px" }} // Add inline CSS to control margin
     >
       <h1
         data-aos="fade-up"
@@ -59,17 +59,17 @@ export default function About() {
           download={"Mandeep_Rahar_Resume"}
           id="resume-button-2"
           className="contact-button resume-button second-btn"
-          style={{
-            display: "block",
-            marginTop: "20px", // Add inline CSS for margin
-            padding: "10px 20px", // Add inline CSS for padding
-            backgroundColor: "#007BFF", // Add inline CSS for background color
-            color: "#fff", // Add inline CSS for text color
-            textDecoration: "none", // Add inline CSS for text decoration
-            borderRadius: "5px", // Add inline CSS for border radius
-            fontWeight: "bold", // Add inline CSS for font weight
-            cursor: "pointer", // Add inline CSS for cursor
-          }}
+          // style={{
+          //   display: "block",
+          //   marginTop: "20px", // Add inline CSS for margin
+          //   padding: "10px 20px", // Add inline CSS for padding
+          //   backgroundColor: "#007BFF", // Add inline CSS for background color
+          //   color: "#fff", // Add inline CSS for text color
+          //   textDecoration: "none", // Add inline CSS for text decoration
+          //   borderRadius: "5px", // Add inline CSS for border radius
+          //   fontWeight: "bold", // Add inline CSS for font weight
+          //   cursor: "pointer", // Add inline CSS for cursor
+          // }}
         >
           Resume
         </a>

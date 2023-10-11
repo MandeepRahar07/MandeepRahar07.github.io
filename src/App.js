@@ -29,6 +29,7 @@ function App() {
       <div className="contain give-padding" onClick={() => {
         if (boolean === false) handleClick();
       }}>
+      
         <About />
         <Skills></Skills>
         {/* <Work /> */}

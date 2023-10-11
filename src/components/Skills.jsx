@@ -45,7 +45,7 @@ export const Skills = () => {
               <div className="skills-card-name" ><SiCss3 className="skills-card-img" color="rgb(21, 246, 73)"/> CSS</div>
             </li>
             <li className="skills-card">
-              <div className="skills-card-name" ><SiTailwindcss className="skills-card-img" color="rgb(21, 246, 73)"/> Tailwind</div>
+              <div className="skills-card-name" ><SiTailwindcss className="skills-card-img" color="rgb(21, 246, 73)"/> ChakraUi</div>
             </li>
             <li className="skills-card">
               <div className="skills-card-name" ><FaJava className="skills-card-img" fontSize={'27px'} color="rgb(21, 246, 73)"/> Java</div>

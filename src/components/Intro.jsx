@@ -1,5 +1,5 @@
 import React from "react";
-import img1 from "../images/pictures/personal.png";
+import img1 from "../images/pictures/per.png";
 import Typewriter from "typewriter-effect";
 
 export default function Intro({ handleClick, boolean }) {
@@ -28,7 +28,7 @@ export default function Intro({ handleClick, boolean }) {
           Mandeep Rahar.
         </div>
         <div className="bio what-i-do">
-          <Typewriter
+          {/* <Typewriter
             options={{
               loop: true,
             }}
@@ -42,7 +42,8 @@ export default function Intro({ handleClick, boolean }) {
                 .deleteAll()
                 .start();
             }}
-          />
+          /> */}
+          <h4>Full Stack Developer</h4>
         </div>
         <div>
           <div className="info">

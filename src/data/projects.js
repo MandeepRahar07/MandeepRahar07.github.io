@@ -3,6 +3,17 @@ export default function getProjects() {
       {
         img:"",
         id: 1,
+        image:'apple.png',
+        projectTitle: "Apple Store",
+        projectInfo:
+         "An Apple website clone is a meticulously designed and responsive platform that mirrors the aesthetics and functionality of Apple's official website.",
+        techUsed: ["JS", "REACT", "CHAKRAUI", "NODE", "MONGODB", "EXPRESS"],
+        projectLinkHosted: "https://apple-store-e1u209ytb-mandeeprahar07.vercel.app/",
+        projectLinkGithub: "https://github.com/MandeepRahar07/Apple",
+      },
+      {
+        img:"",
+        id: 2,
         image:'furniture.png',
         projectTitle: "Furniture Store",
         projectInfo:
@@ -13,7 +24,7 @@ export default function getProjects() {
       },
       {
         img:"",
-        id: 2,
+        id: 3,
         image:'travelious.png',
         projectTitle: "Travelious",
         projectInfo:
@@ -24,7 +35,7 @@ export default function getProjects() {
       },
       {
         img:"",
-        id: 3,
+        id: 4,
         image:'alkajar.png',
         projectTitle: "Alkajar",
         projectInfo:
