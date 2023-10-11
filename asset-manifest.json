@@ -1,19 +1,20 @@
 {
   "files": {
-    "main.css": "/static/css/main.3bd5ac08.css",
-    "main.js": "/static/js/main.59d3e57b.js",
+    "main.css": "/static/css/main.82213d09.css",
+    "main.js": "/static/js/main.05d4cbe5.js",
     "static/media/furniture.png": "/static/media/furniture.1b6bfd4172e80578416f.png",
     "static/media/alkajar.png": "/static/media/alkajar.49e503bb70c2973f585c.png",
     "static/media/travelious.png": "/static/media/travelious.db840f8dcf10d656c060.png",
     "static/media/netmeds3.png": "/static/media/netmeds3.32e2013a80b324a2e939.png",
     "static/media/Mandeep_rahar_resume.pdf": "/static/media/Mandeep_rahar_resume.534705e6c456a7172c77.pdf",
-    "static/media/personal.png": "/static/media/personal.2eaccd89b422a93fd273.png",
+    "static/media/apple.png": "/static/media/apple.87ff2c509720ad61367a.png",
+    "static/media/per.png": "/static/media/per.75807c1002487d0469ee.png",
     "index.html": "/index.html",
-    "main.3bd5ac08.css.map": "/static/css/main.3bd5ac08.css.map",
-    "main.59d3e57b.js.map": "/static/js/main.59d3e57b.js.map"
+    "main.82213d09.css.map": "/static/css/main.82213d09.css.map",
+    "main.05d4cbe5.js.map": "/static/js/main.05d4cbe5.js.map"
   },
   "entrypoints": [
-    "static/css/main.3bd5ac08.css",
-    "static/js/main.59d3e57b.js"
+    "static/css/main.82213d09.css",
+    "static/js/main.05d4cbe5.js"
   ]
 }
