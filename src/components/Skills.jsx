@@ -51,6 +51,9 @@ export const Skills = () => {
               <div className="skills-card-name" ><FaJava className="skills-card-img" fontSize={'27px'} color="rgb(21, 246, 73)"/> Java</div>
             </li>
           </ul>
+          <h1 data-aos="fade-up"  className="heading">
+        <span className="sauce">Tools</span>
+      </h1>
         <p data-aos="fade-up" style={{marginTop:'3rem'}}>Here are a few Tools I’ve been working with recently:</p>
           <ul data-aos="fade-up"  className="skills-list">
             <li className="skills-card">
