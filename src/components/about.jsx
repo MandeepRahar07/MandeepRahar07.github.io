@@ -4,7 +4,7 @@ import AOS from "aos";
 
 export default function About() {
   const handleDownload = () => {
-    window.open(resume, '_blank');
+    window.open('https://drive.google.com/file/d/1nWEchFJw2f1H8vpCW-3fn-THQtt2DUij/view?usp=drive_link', '_blank');
   };
 
   useEffect(() => {
