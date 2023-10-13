@@ -8,7 +8,7 @@ export default function getProjects() {
         projectInfo:
          "An Apple website clone is a meticulously designed and responsive platform that mirrors the aesthetics and functionality of Apple's official website.",
         techUsed: ["JS", "REACT", "CHAKRAUI", "NODE", "MONGODB", "EXPRESS"],
-        projectLinkHosted: "https://apple-store-e1u209ytb-mandeeprahar07.vercel.app/",
+        projectLinkHosted: "https://apple-store-8qygs2jyy-mandeeprahar07.vercel.app/",
         projectLinkGithub: "https://github.com/MandeepRahar07/Apple",
       },
       {
@@ -19,7 +19,7 @@ export default function getProjects() {
         projectInfo:
          "A furniture store sells various types of furniture, including sofas, chairs, tables, and cabinets, for home and office use",
         techUsed: ["JS", "REACT", "CHAKRAUI", "NODE", "MONGODB", "EXPRESS"],
-        projectLinkHosted: "https://furniture-max0k8t6z-mandeeprahar07.vercel.app/",
+        projectLinkHosted: "https://furniture-fq0u8sxa7-mandeeprahar07.vercel.app/",
         projectLinkGithub: "https://github.com/MandeepRahar07/Furniture-Store",
       },
       {
